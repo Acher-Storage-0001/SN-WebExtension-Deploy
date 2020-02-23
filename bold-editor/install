@@ -1,0 +1,13 @@
+{
+  "identifier": "org.youth.bold-editor",
+  "name": "Bold Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.5",
+  "description": "A simple and peaceful rich editor that helps you write and think clearly. Features FileSafe integration, so you can embed your images, videos, and audio recordings directly inline.",
+  "url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/bold-editor",
+  "download_url": "https://github.com/standardnotes/bold-editor/archive/1.0.5.zip",
+  "latest_url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/bold-editor/install",
+  "marketing_url": "https://standardnotes.org/extensions/bold-editor",
+  "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/bold.jpg"
+}
