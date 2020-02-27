@@ -1,7 +1,7 @@
 {
   "identifier": "org.youth.solarized-dark-theme",
   "name": "Solarized Dark Theme",
-  "content_type": "SN|Component",
+  "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.2.1",
   "description": "The perfect theme for any time.",
