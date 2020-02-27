@@ -1,0 +1,13 @@
+{
+  "identifier": "org.youth.dynamic-theme",
+  "name": "Dynamic Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A smart theme that minimizes the tags and notes panels when they are not in use.",
+  "url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/dynamic-theme",
+  "download_url": "https://github.com/sn-extensions/dynamic-theme/archive/1.0.0.zip",
+  "latest_url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/dynamic-theme/install",
+  "marketing_url": "https://standardnotes.org/extensions/dynamic",
+  "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/components/dynamic-theme.jpg"
+}
