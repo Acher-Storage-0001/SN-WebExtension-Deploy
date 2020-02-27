@@ -1,0 +1,13 @@
+{
+  "identifier": "org.youth.code-editor",
+  "name": "Code Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.3.3",
+  "description": "Syntax highlighting and convenient keyboard shortcuts for over 120 programming languages. Ideal for code snippets and procedures.",
+  "url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/code-editor",
+  "download_url": "https://github.com/sn-extensions/code-editor/archive/1.3.3.zip",
+  "latest_url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/code-editor/install",
+  "marketing_url": "https://standardnotes.org/extensions/code-editor",
+  "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/code.jpg"
+}
