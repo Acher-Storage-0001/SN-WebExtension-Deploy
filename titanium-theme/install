@@ -1,0 +1,13 @@
+{
+  "identifier": "org.youth.titanium-theme",
+  "name": "Titanium Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.2",
+  "description": "Light on the eyes, heavy on the spirit.",
+  "url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/titanium-theme",
+  "download_url": "https://github.com/sn-extensions/titanium-theme/archive/1.2.2.zip",
+  "latest_url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/titanium-theme/install",
+  "marketing_url": "https://standardnotes.org/extensions/titanium",
+  "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/titanium-with-mobile.jpg"
+}
