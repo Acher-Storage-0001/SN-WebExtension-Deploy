@@ -1,0 +1,13 @@
+{
+  "identifier": "org.youth.no-distraction-theme",
+  "name": "No Distraction Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.2",
+  "description": "A distraction-free writing environment for high levels of clarity and focus.",
+  "url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/no-distraction-theme",
+  "download_url": "https://github.com/sn-extensions/no-distraction-theme/archive/1.2.2.zip",
+  "latest_url": "https://acher-storage-0001.github.io/SN-WebExtension-Deploy/no-distraction-theme/install",
+  "marketing_url": "https://standardnotes.org/extensions/no-distraction",
+  "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/no-distraction.jpg"
+}
